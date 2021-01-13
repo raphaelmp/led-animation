@@ -22,3 +22,19 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.textToAnimate {
+  font-size : 5em;
+}
+
+.red {
+  text-shadow: red 1px 0 10px;
+}
+
+.green {
+  text-shadow: green 1px 0 10px;
+}
+
+.blue {
+  text-shadow: blue 1px 0 10px;
+}
